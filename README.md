@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay1105&show_icons=true&hide_border=true)
+
+[website]: https://mindlessintelligent.com
+[medium]: https://medium.com/@abhay1105/
