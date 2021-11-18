@@ -1,10 +1,8 @@
-### Welcome! My name is Abhay Paidipalli.
-
----
-
 <p align="center">
   <img src="https://miro.medium.com/max/862/1*wfaSqYsqu3aZufsYIlPGuA.gif" width="100%" title="Cool GIF" alt="Cool GIF">
 </p>
+
+### Welcome!
 
 ⭐️ I am a high school junior from Chicago, Illinois who wants to pursue a career in computer science and mathematics. I have a plethora of experience in computer science so far with topics ranging from web development to machine learning, and I look forward to exploring and expanding my knowledge even more!
  
@@ -46,6 +44,7 @@
 <!-- [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<br>
 
 
 ---
