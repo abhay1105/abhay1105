@@ -8,7 +8,7 @@
  
 🖥 I’m currently planning a project involving **Natural Language Processing**.
  
-<!-- 📚 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform -->
+📚 Check out my nonprofit organization, **Elevated Learning**, at [elevated-learning.org](https://elevated-learning.org).
  
 🔭 I am looking for opportunities to do research/an internship with computer science professionals.
  
@@ -35,7 +35,7 @@
 
 
 ---
-
+<!-- 
 
 ### Visit my socials 🌎
 
@@ -47,7 +47,7 @@
 <br>
 
 
----
+--- -->
 
 
 ### Checkout some of my articles :loudspeaker: 
@@ -67,10 +67,10 @@ Make sure to check out some of my repositories! 👇
 
 <!-- :star: From [Souravdey777](https://github.com/Souravdey777) -->
 
-[website]: https://mindlessintelligent.com
+<!-- [website]: https://mindlessintelligent.com -->
 <!-- [twitter]: https://twitter.com/Souravdey777
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/ -->
-[medium]: https://medium.com/@abhaypaidipalli/
-[devpost]: https://devpost.com/abhay-paidipalli
+[instagram]: https://www.instagram.com/souravdey777/ -->
+[linkedin]: [https://www.linkedin.com/in/sourav-dey/](https://www.linkedin.com/in/abhay-paidipalli/)
+[medium]: [https://medium.com/@abhaypaidipalli/](https://medium.com/@abhaypaidipalli/)
+[devpost]: [https://devpost.com/abhay-paidipalli](https://devpost.com/abhay-paidipalli)
