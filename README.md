@@ -59,8 +59,8 @@
 
 ### Visit my socials 🌎
 
-LinkedIn: [https://www.linkedin.com/in/abhay-paidipalli/](https://www.linkedin.com/in/abhay-paidipalli/)
-Medium: [https://medium.com/@abhaypaidipalli/](https://medium.com/@abhaypaidipalli/)
+LinkedIn: [https://www.linkedin.com/in/abhay-paidipalli/](https://www.linkedin.com/in/abhay-paidipalli/) <br>
+Medium: [https://medium.com/@abhaypaidipalli/](https://medium.com/@abhaypaidipalli/) <br>
 Devpost: [https://devpost.com/abhay-paidipalli](https://devpost.com/abhay-paidipalli)
 
 
