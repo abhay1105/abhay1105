@@ -41,13 +41,10 @@
 
 [<img align="left" alt="abhay" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="abhaypaidipalli | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-<!-- [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-<br>
-
-
---- -->
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br> -->
 
 
 ### Checkout some of my articles :loudspeaker: 
@@ -58,6 +55,17 @@
 
 
 ---
+
+
+### Visit my socials 🌎
+
+LinkedIn: [https://www.linkedin.com/in/abhay-paidipalli/](https://www.linkedin.com/in/abhay-paidipalli/)
+Medium: [https://medium.com/@abhaypaidipalli/](https://medium.com/@abhaypaidipalli/)
+Devpost: [https://devpost.com/abhay-paidipalli](https://devpost.com/abhay-paidipalli)
+
+
+---
+
 
 If you have any interesting opportunities, feel free to contact me. 😁
 
@@ -71,6 +79,3 @@ Make sure to check out some of my repositories! 👇
 <!-- [twitter]: https://twitter.com/Souravdey777
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/ -->
-[linkedin]: [https://www.linkedin.com/in/sourav-dey/](https://www.linkedin.com/in/abhay-paidipalli/)
-[medium]: [https://medium.com/@abhaypaidipalli/](https://medium.com/@abhaypaidipalli/)
-[devpost]: [https://devpost.com/abhay-paidipalli](https://devpost.com/abhay-paidipalli)
