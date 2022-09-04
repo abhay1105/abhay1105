@@ -4,19 +4,19 @@
 
 ### Welcome!
 
-⭐️ I am a high school junior from Chicago, Illinois who wants to pursue a career in computer science and mathematics. I have a plethora of experience in computer science so far with topics ranging from web development to machine learning, and I look forward to exploring and expanding my knowledge even more!
+⭐️ I am a high school senior from Chicago, Illinois who wants to pursue a career in computer science and mathematics. I have a plethora of experience in computer science so far with topics ranging from web development to machine learning, and I look forward to exploring and expanding my knowledge even more!
  
 🖥 I’m currently planning a project involving **Natural Language Processing**.
  
 <!-- 📚 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform -->
  
-🔭 I am looking for opportunities to do research/an internship under computer science professionals with lots of experience in the field.
+🔭 I am looking for opportunities to do research/an internship with computer science professionals.
  
 <!-- I’m looking to collaborate for a Flutter and ML-based project **Doc App**. -->
  
 <!-- I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs). -->
  
-💬 Ask me about Full Stack Development, Data Analytics, and any Sports-related stuff.
+💬 Ask me about Full Stack Development, Data Analytics, and any Sports-related topics.
 
 ‼️ Fun Fact: I love to play jazz music on my tenor saxophone, and I am a huge Chicago Bulls fan.
 
