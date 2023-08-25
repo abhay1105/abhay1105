@@ -4,9 +4,9 @@
 
 ### Welcome!
 
-⭐️ I am a high school senior from Chicago, Illinois who wants to pursue a career in computer science and mathematics. I have a plethora of experience in computer science so far with topics ranging from web development to machine learning, and I look forward to exploring and expanding my knowledge even more!
+⭐️ I'm looking to pursue a career at the intersection of mathematics and computer science. I've already obtained a variety of experience in computer science, with topics ranging from web development to machine learning, and I look forward to exploring and expanding my knowledge even more!
  
-🖥 I’m currently planning a project involving **Natural Language Processing**.
+🖥 I’m currently working on a project involving **Natural Language Processing**.
  
 📚 Check out my nonprofit organization, **Elevated Learning**, at [elevated-learning.org](https://elevated-learning.org).
  
@@ -18,7 +18,7 @@
  
 💬 Ask me about Full Stack Development, Data Analytics, and any Sports-related topics.
 
-‼️ Fun Fact: I love to play jazz music on my tenor saxophone, and I am a huge Chicago Bulls fan.
+‼️ Fun Fact: I play the tenor saxophone in a jazz improv group, and I am a huge Chicago Bulls fan.
 
 ---
 
