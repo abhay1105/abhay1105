@@ -18,7 +18,7 @@
  
 💬 Ask me about Full Stack Development, Data Analytics, and any Sports-related topics.
 
-‼️ Fun Fact: I play the tenor saxophone in a jazz improv group, and I am a huge Chicago Bulls fan.
+‼️ Fun Fact: I play tenor saxophone in a jazz combo group, and I am a huge Chicago Bulls fan.
 
 ---
 
