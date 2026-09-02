@@ -4,9 +4,9 @@
 
 ### Welcome!
 
-⭐️ I'm a third-year undergraduate student at UC Berkeley interested in Machine Learning and its applications.
+⭐️ I'm a fourth-year undergraduate student at UC Berkeley interested in Machine Learning and its applications.
  
-🖥 I’m currently working on a project related to **Large Language Models**.
+🖥 I’m currently working on a project related to **AI Interpretability**.
  
 💬 I love chatting about movies, sports, and food from around the world.
 
